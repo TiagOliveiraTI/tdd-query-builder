@@ -1,1 +1,1 @@
-{"version":1,"defects":[],"times":[]}
+{"version":1,"defects":{"SelectTest::test_get_simple_select":3},"times":{"SelectTest::test_get_simple_select":0.003}}
